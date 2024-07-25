@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pothrosi.github.io/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/app/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/assets/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/css/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/includes/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/item/sitemap.html.gz
+Sitemap: https://pothrosi.github.io/src/sitemap.html.gz
